@@ -1,0 +1,23 @@
+[
+  {
+    "image": "https://5.imimg.com/data5/YJ/BO/MY-10973479/mens-designer-casual-shirt-500x500.jpg",
+    "title": "Raymond",
+    "type": "Shirt",
+    "price": "$2000",
+    "id": 0
+  },
+  {
+    "image": "https://5.imimg.com/data5/YJ/BO/MY-10973479/mens-designer-casual-shirt-500x500.jpg",
+    "title": "Raymond",
+    "type": "Shirt",
+    "price": "$5000",
+    "id": 1
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71rY+UOamlL._UY741_.jpg",
+    "title": "Raymond",
+    "type": "Pant",
+    "price": "$5000",
+    "id": 2
+  }
+]
